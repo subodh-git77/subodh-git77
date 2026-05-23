@@ -200,7 +200,11 @@ A real-time chat application for local network communication with rooms and PIN-
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/subodh-git77/subodh-git77/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subodh-git77/subodh-git77/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subodh-git77/subodh-git77/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/subodh-git77/subodh-git77/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
