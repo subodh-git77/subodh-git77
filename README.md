@@ -1,90 +1,201 @@
-<!--## Hi there 👋 -->
+<!-- ==================== HEADER ==================== -->
 
-<!--
-**subodh-git77/subodh-git77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Subodh Kumar</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+💻 Software Developer | 🚀 Full-Stack Developer | 🔥 Firebase Enthusiast
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-# 👋 Hi, I'm Subodh  
-
-💻 **Software Devloper** | 🚀 **Full-Stack Developer** | 🔥 **Firebase Enthusiast**  
-
-I specialize in building **scalable, real-time web applications** and love crafting **clean, modern UIs**.  
-With hands-on experience in **frontend, backend, and cloud integration**, I aim to deliver projects that are both functional and visually engaging.  
-
----
-
-## 🔥 What I Do
-- ⚡ Develop **modern, responsive web applications** using **React, TailwindCSS, and JavaScript**  
-- 🔄 Build **realtime, collaborative applications** powered by **Firebase**  
-- 🎯 Create **RESTful APIs** with **Node.js & Express**  
-- 🚀 Deploy projects to **GitHub Pages, Netlify, and Firebase Hosting**  
-- 🛠️ Contribute to **open-source projects** and explore new tech  
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend & Cloud**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### ⚡ [Realtime Code Editor](https://github.com/subodh-git77/realtime-code-editor)  
-A collaborative **HTML, CSS & JS editor** with live preview and Firebase-powered realtime sync.  
-
-### ⚡ [Realtime Chat Application](https://github.com/subodh-git77/NetTalk)  
-A real-time LAN-based chat application with room management, typing indicators, and file sharing.
-
-
----
-
-## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subodh-git77&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subodh-git77&layout=compact&theme=tokyonight" height="160" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Scalable+Applications;Full+Stack+Developer;Firebase+Enthusiast;Exploring+AI+%2B+Cybersecurity;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=subodh-git77&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/subodh-git77?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/subodh-git77?style=for-the-badge&color=orange"/>
 </p>
 
 ---
 
-## 🌍 Let's Connect
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="center">
-  <a href="mailto:subodh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/subodh-kumar-0449652a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white" /></a>
+## 🚀 About Me
+
+🎓 B.Tech CSE Student (2027)
+
+💡 Passionate about building scalable and real-time applications
+
+🌱 Currently learning:
+
+- Advanced Backend Systems
+- AI + Cybersecurity
+- Cloud Technologies
+
+💬 Ask me about:
+
+- React.js
+- Firebase
+- Node.js
+- MongoDB
+- Full Stack Development
+
+⚡ Fun Fact:
+
+> I love transforming ideas into interactive products.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python"/>
+</p>
+
+### Database & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+# 🔥 Featured Projects
+
+## 🛡️ GenTwin
+AI-Powered Digital Twin for Cybersecurity Gap Detection
+
+✨ Features:
+
+- Generative AI (VAE/GAN)
+- SimPy simulations
+- SWaT dataset analysis
+- Security gap detection
+- Interactive dashboard
+
+---
+
+## 🎤 Multimodal AI Security System
+
+✨ Features:
+
+- Audio deepfake detection
+- Prompt injection detection
+- Risk scoring
+- Cross-modal verification
+
+---
+
+## 📋 Smart Task Manager
+
+✨ Features:
+
+- JWT Authentication
+- Dashboard & Filters
+- Priority management
+- MongoDB integration
+
+---
+
+## 💻 Online Code Editor
+
+✨ Features:
+
+- Real-time collaboration
+- Firebase integration
+- Live updates
+
+---
+
+## 💬 LAN Chat
+
+✨ Features:
+
+- WebSocket communication
+- Room creation
+- PIN-based security
+- Multi-user chat
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=subodh-git77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subodh-git77&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subodh-git77&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=subodh-git77&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/subodh-git77/subodh-git77/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+
+<a href="https://github.com/subodh-git77">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Quote
+
+<p align="center">
+
+### "First solve the problem, then write the code."
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
