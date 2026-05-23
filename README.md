@@ -188,9 +188,9 @@ A real-time chat application for local network communication with rooms and PIN-
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
 <!--
+# 🏆 GitHub Trophies
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=subodh-git77&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
